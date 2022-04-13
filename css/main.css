@@ -1,0 +1,44 @@
+.s1{
+    background: url("https://wallpapercave.com/wp/wp2757874.gif");
+    background-size: cover;
+
+}
+
+.s2{
+    background: url('https://wallpapercave.com/wp/wp2757834.gif');
+    background-size: cover;
+
+}
+
+.s3{
+    background: url('https://wallpapercave.com/wp/wp2239808.gif');
+    background-size: cover;
+
+}
+
+.s4{
+    background: url('https://wallpapercave.com/wp/wp2757868.gif');
+    background-size: cover;
+
+}
+
+
+.navbar{
+    z-index: +1;
+    background: black;
+}
+
+
+.fullpage-frame{
+    z-index: -1;
+}
+
+
+#fp-nav ul li a.active span, #fp-nav ul li:hover a.active span, .fp-slidesNav ul li a.active span, .fp-slidesNav ul li:hover a.active span {
+    background-color: white;
+}
+
+
+#fp-nav ul li a span, .fp-slidesNav ul li a span {
+    background: #c0c2ab;
+}
